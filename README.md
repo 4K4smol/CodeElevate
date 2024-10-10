@@ -1,2 +1,2 @@
 ### CodeElevate
-#"Elevamos tu desarrollo y optimizamos tus resultados"
+Elevamos tu desarrollo y optimizamos tus resultados
