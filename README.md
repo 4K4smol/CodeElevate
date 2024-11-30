@@ -6,7 +6,7 @@
 
 # Plan de Empresa: CodeElevate
 
-## Propuestas de Valor
+# Propuestas de Valor
 En CodeElevate, entendemos que el código es el núcleo de las operaciones de una empresa moderna. Nuestra propuesta de valor se centra en ofrecer soluciones únicas y efectivas que permitan a las organizaciones maximizar su potencial tecnológico, reduciendo costos y riesgos. Lo que nos distingue de nuestros competidores incluye:
 
 - **Reducción de Costos Operativos:**
@@ -27,7 +27,7 @@ En CodeElevate, entendemos que el código es el núcleo de las operaciones de un
 - **Innovación Constante:**
    Implementamos las mejores prácticas y herramientas de última generación para asegurar que nuestros clientes estén siempre un paso adelante en tecnología.
 
-## Recursos Clave
+# Recursos Clave
 CodeElevate cuenta con una serie de recursos estratégicos esenciales para crear y entregar valor a nuestros clientes:
 
 ### Recursos Intelectuales
@@ -56,7 +56,7 @@ CodeElevate cuenta con una serie de recursos estratégicos esenciales para crear
 - **Recursos Operativos:**
    Financiamiento para marketing, adquisición de clientes y soporte continuo.
 
-## Actividades Clave
+# Actividades Clave
 
 Para cumplir con nuestra propuesta de valor y alcanzar nuestras metas estratégicas, **CodeElevate** desarrolla las siguientes actividades clave:
 
@@ -75,7 +75,7 @@ Para cumplir con nuestra propuesta de valor y alcanzar nuestras metas estratégi
 - Implementamos procesos iterativos y colaborativos, garantizando entregas constantes y adaptaciones rápidas a los cambios del entorno.
 
 
-## Segmento de Clientes
+# Segmento de Clientes
 
 ### Mercado Masivo
 CodeElevate no sigue un enfoque de mercado masivo, ya que su propuesta se centra en solucionar problemas específicos de sistemas obsoletos y optimización de código.
@@ -103,7 +103,7 @@ En el futuro, CodeElevate podría diversificar su oferta para abarcar nuevos seg
 
 ---
 
-## Relación con Clientes 
+# Relación con Clientes 
 
 - ### Asistencia Personal
 CodeElevate ofrece asistencia personal en todas las fases del servicio:
@@ -121,7 +121,7 @@ Sistema de Tique, donde se puedan comunicar, a través de una aplicación con el
 
 ---
 
-## Canales 
+# Canales 
 
 Los canales son esenciales para conectar la propuesta de valor de CodeElevate con sus clientes objetivo de manera eficiente y estratégica. Se dividen en:
 
@@ -146,5 +146,7 @@ Los canales son esenciales para conectar la propuesta de valor de CodeElevate co
      - Responder preguntas.
      - Brindar soporte continuo a clientes actuales.
 ---
+
+
 
 
