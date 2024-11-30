@@ -147,6 +147,55 @@ Los canales son esenciales para conectar la propuesta de valor de CodeElevate co
      - Brindar soporte continuo a clientes actuales.
 ---
 
+## 1. Socio Clave
+En CodeElevate, los socios clave son esenciales para garantizar el éxito y la expansión de nuestros servicios en el mercado. Nos enfocamos en colaborar con:
+
+- **Empresas líderes en tecnología** que puedan proporcionar herramientas avanzadas y recursos técnicos.
+- **Grupos de inversores** que impulsen nuestra capacidad de innovación y expansión.
+- **Consultoras especializadas** en calidad de software para desarrollar proyectos conjuntos.
+- **Instituciones educativas y centros de formación** para fortalecer nuestra oferta de capacitación y atraer talento.
+
+Estar conectados con estos actores estratégicos nos permite mantener un entorno empresarial dinámico, ampliar nuestra base de clientes y consolidar a CodeElevate como un referente en auditorías técnicas, refactorización y formación avanzada.
+
+---
+
+## 2. Estructuras de Costes
+La estructura de costes de CodeElevate está diseñada para optimizar recursos mientras se garantiza la calidad de nuestros servicios. Esto incluye:
+
+- ### **Clases de estructuras comerciales:**
+1. **Motivación por coste**:  
+   - Optimizamos la asignación de recursos en proyectos mediante el uso de herramientas propias.
+
+2. **Motivación por valor**:  
+   - Ofrecemos servicios altamente especializados, como auditorías técnicas avanzadas y desarrollo de herramientas internas, que aportan un gran valor a nuestros clientes.  
+
+- ### **Características de la estructura de costes:**
+1. **Costes fijos**:
+  - Salarios del equipo técnico y formadores.
+  - Licencias de software especializado para auditorías y refactorización.
+
+2. **Costes variables**:
+  - Herramientas o frameworks específicos requeridos en auditorías personalizadas.
+  - Realización de cursillos para proyectos que demanden conocimientos muy específicos.
+---
+
+## 3. Fuentes de Ingreso
+CodeElevate genera ingresos a través de un enfoque diversificado, centrado en servicios de alto valor añadido para empresas que buscan optimizar su rendimiento tecnológico.
+
+1. **Refactorización y optimización de código**:
+   - Ofrecemos servicios de mejora del código existente para garantizar modularidad, eficiencia y sostenibilidad a largo plazo.
+   - Ingresos derivados de proyectos de transformación técnica y modernización tecnológica.
+
+2. **Formación y capacitación**:
+   - Generamos ingresos mediante tarifas por inscripción a programas formativos y venta de guías y documentación técnica.
+
+3. **Desarrollo de herramientas internas**:
+   - Diseñamos y licenciamientos scripts y utilidades específicas para análisis automatizado.
+   - Ingresos a partir de la venta o suscripción a herramientas desarrolladas internamente.
+
+4. **Soporte continuo y mantenimiento**:
+   - Servicios post-proyecto que incluyen soporte técnico, actualización de herramientas y revisión de implementaciones realizadas.
+   - Ingresos recurrentes derivados de contratos de mantenimiento.
 
 
 
