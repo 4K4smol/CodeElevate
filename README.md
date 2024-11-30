@@ -147,7 +147,7 @@ Los canales son esenciales para conectar la propuesta de valor de CodeElevate co
      - Brindar soporte continuo a clientes actuales.
 ---
 
-## 1. Socio Clave
+## Socio Clave
 En CodeElevate, los socios clave son esenciales para garantizar el éxito y la expansión de nuestros servicios en el mercado. Nos enfocamos en colaborar con:
 
 - **Empresas líderes en tecnología** que puedan proporcionar herramientas avanzadas y recursos técnicos.
@@ -159,7 +159,7 @@ Estar conectados con estos actores estratégicos nos permite mantener un entorno
 
 ---
 
-## 2. Estructuras de Costes
+## Estructuras de Costes
 La estructura de costes de CodeElevate está diseñada para optimizar recursos mientras se garantiza la calidad de nuestros servicios. Esto incluye:
 
 - ### **Clases de estructuras comerciales:**
@@ -179,7 +179,7 @@ La estructura de costes de CodeElevate está diseñada para optimizar recursos m
   - Realización de cursillos para proyectos que demanden conocimientos muy específicos.
 ---
 
-## 3. Fuentes de Ingreso
+## Fuentes de Ingreso
 CodeElevate genera ingresos a través de un enfoque diversificado, centrado en servicios de alto valor añadido para empresas que buscan optimizar su rendimiento tecnológico.
 
 1. **Refactorización y optimización de código**:
