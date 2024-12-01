@@ -6,6 +6,11 @@
 
 # Plan de Empresa: CodeElevate
 
+# Idea de Proyecto
+**Por qué CodeElevate es una Buena Idea**
+- La creación de una consultoría IT especializada en refactorización y optimización de código, llamada CodeElevate, responde a una necesidad crítica en el mercado actual.
+- Las empresas están creciendo y evolucionando a un ritmo sin precedentes. Sin embargo, muchas siguen arrastrando software y sistemas obsoletos que frenan su progreso, generando ineficiencias y aumentando los costos operativos. Esto es especialmente cierto en sectores clave como el bancario, seguros, salud y educación, donde mantener la agilidad y la eficiencia es crucial para seguir siendo competitivos. Aquí es donde CodeElevate entra en acción.
+
 # Propuestas de Valor
 En CodeElevate, entendemos que el código es el núcleo de las operaciones de una empresa moderna. Nuestra propuesta de valor se centra en ofrecer soluciones únicas y efectivas que permitan a las organizaciones maximizar su potencial tecnológico, reduciendo costos y riesgos. Lo que nos distingue de nuestros competidores incluye:
 
