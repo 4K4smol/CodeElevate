@@ -182,6 +182,24 @@ La estructura de costes de CodeElevate está diseñada para optimizar recursos m
 2. **Costes variables**:
   - Herramientas o frameworks específicos requeridos en auditorías personalizadas.
   - Realización de cursillos para proyectos que demanden conocimientos muy específicos.
+
+### Inversión y Financiación  
+
+Para garantizar el crecimiento y la innovación de CodeElevate, se han definido estrategias de inversión y financiación enfocadas en la sostenibilidad y escalabilidad del negocio.  
+
+### **¿Cuánto dinero necesitas para comenzar?**  
+Se estima que para la fase inicial CodeElevate requiere **al menos 50,000 €** para cubrir costes fijos y operativos durante el primer año.  
+
+### **¿De dónde vendrá la inversión inicial?**  
+1. **Ahorros personales** (20%) → **10,000 €**  
+2. **Préstamos bancarios o líneas de crédito** (40%) → **20,000 €**  
+3. **Inversores privados (business angels, aceleradoras, etc.)** (30%) → **15,000 €**  
+4. **Crowdfunding o subvenciones tecnológicas** (10%) → **5,000 €**  
+
+## **Estrategia de Financiación**  
+- Financiación mediante servicios recurrentes y suscripciones para garantizar estabilidad de ingresos.  
+- Mantenimiento de un fondo de reserva para garantizar solvencia ante fluctuaciones del mercado.  
+- Plan de crecimiento a 3 y 5 años con previsión de inversión en herramientas de IA y automatización.  
 ---
 
 ## Fuentes de Ingreso
@@ -201,6 +219,23 @@ CodeElevate genera ingresos a través de un enfoque diversificado, centrado en s
 4. **Soporte continuo y mantenimiento**:
    - Servicios post-proyecto que incluyen soporte técnico, actualización de herramientas y revisión de implementaciones realizadas.
    - Ingresos recurrentes derivados de contratos de mantenimiento.
+  
+### **Proyecciones de ingresos y gastos**  
+Las proyecciones de ingresos se basan en una estrategia de crecimiento progresivo, considerando la adquisición de clientes y la diversificación de servicios.  
 
+- **Primer año**: Se espera una captación gradual de clientes mediante marketing digital y networking.  
+- **Segundo año**: Crecimiento sostenido con aumento de ingresos recurrentes a través de contratos de mantenimiento y licenciamiento de herramientas.  
+- **Tercer año**: Expansión con un equipo más consolidado y posibles inversiones en IA y automatización.  
+
+**Estimación de ingresos (anual):**  
+- Refactorización y optimización de código: **40%**  
+- Formación y capacitación: **30%**  
+- Desarrollo de herramientas internas: **20%**  
+- Soporte y mantenimiento: **10%**  
+
+**Estimación de gastos (anual):**  
+- Costes fijos: **60%**  
+- Costes variables: **30%**  
+- Impuestos y gastos administrativos: **10%**  
 
 
